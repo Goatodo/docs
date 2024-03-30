@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy policy - Goatodo"
+permalink: /privacy
+
 # Privacy Policy for GoaTodo
 
 This Privacy Policy (hereafter "the Policy") outlines how GoaTodo collects, uses, stores, and potentially shares the information you provide when using our to-do application. We take your privacy seriously and are dedicated to transparency in our data practices.
