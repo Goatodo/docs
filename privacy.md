@@ -1,6 +1,6 @@
-layout: page
 title: "Privacy policy - Goatodo"
-permalink: /privacy
+path: /privacy
+---
 
 # Privacy Policy for GoaTodo
 
