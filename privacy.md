@@ -1,5 +1,6 @@
-title: "Privacy policy - Goatodo"
-path: /privacy
+---
+title: "Privacy policy"
+permalink: /privacy
 ---
 
 # Privacy Policy for GoaTodo
@@ -39,7 +40,7 @@ Our application may contain links to third-party websites or services. We are no
 
 ## Children's Privacy
 
-Our application is not intended for use by children under the age of 13. We do not knowingly collect information from children.
+Our app is safe to use for children, as all content will be added by the user. We do not knowingly collect information from children.
 
 ## Changes to This Policy
 
